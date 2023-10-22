@@ -1,0 +1,23 @@
+{
+  "prompt_text": "Very saturated green lizard skin like a forest animal",
+  "patch": {
+    "ext": "png",
+    "dtype": "uint8",
+    "width": 512,
+    "height": 512,
+    "url": "https://static-dev.withpoly.com/v3/textures/patches/ac80c96f-53d0-42e2-992d-c3092304606e.png",
+    "patch_id": "XzeDbZRcM8"
+  },
+  "seamless_prompt_text": "Very saturated green lizard skin like a forest animal",
+  "seamless_patch_scale": 0.96,
+  "upscale_prompt_text": "Very saturated green lizard skin like a forest animal",
+  "upscale_resolution": 2048,
+  "is_seamless": true,
+  "pbr_mode": "diverse",
+  "pbr_generate_color": false,
+  "pbr_generate_normal": true,
+  "pbr_generate_height": true,
+  "pbr_generate_ao": true,
+  "pbr_generate_roughness": true,
+  "pbr_generate_metallic": false
+}
